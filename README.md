@@ -10,7 +10,7 @@ Execute the following command on your shell:
 ant all 
 ```
 Start
---------
+-------
 
 To start the service, use one of the available start scripts:
 
