@@ -4,7 +4,7 @@ This service is used to conduct assessments with bots created with the current S
 
 Build
 --------
-Execute the following command on your shell:
+Execute the following command on your shell:test
 
 ```shell
 ant all 
